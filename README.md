@@ -48,12 +48,12 @@ This project investigates:
    git clone https://github.com/d-ddddddd/diabetes-risk-analysis.git
    cd diabetes-risk-analysis
 
-2.Set up a virtual environment and install dependencies:
-
+ 2.Set up a virtual environment and install dependencies:
+    
     python3 -m venv .venv
     source .venv/bin/activate
     pip install -r requirements.txt
 
-3.Launch the analysis:
-
+ 3.Launch the analysis:
+    
     jupyter notebook notebooks/01_data_exploration.ipynb
