@@ -50,10 +50,10 @@ This project investigates:
 
 2.Set up a virtual environment and install dependencies:
 
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+    python3 -m venv .venv
+    source .venv/bin/activate
+    pip install -r requirements.txt
 
-2.Launch the analysis:
+3.Launch the analysis:
 
-jupyter notebook notebooks/01_data_exploration.ipynb
+    jupyter notebook notebooks/01_data_exploration.ipynb
