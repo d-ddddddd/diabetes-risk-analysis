@@ -45,14 +45,15 @@ This project investigates:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/diabetes-risk-analysis.git
+   git clone https://github.com/d-ddddddd/diabetes-risk-analysis.git
    cd diabetes-risk-analysis
 
-1.Set up a virtual environment and install dependencies:
+2.Set up a virtual environment and install dependencies:
 
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
 2.Launch the analysis:
+
 jupyter notebook notebooks/01_data_exploration.ipynb
